@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/database_config/models.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/admin/admin_project_statistic_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/admin/admin_season_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/admin/admin_table_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/admin/admin_user_statistic_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/admin/admin_voting_statistic_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/table_data/__init__.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/table_data/insert_data.py" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/queries/users/user_data_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/users/user_project_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/queries/users/user_voting_operations.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/utils/checkdata.py" dialect="GenericSQL" />
+  </component>
+</project>
